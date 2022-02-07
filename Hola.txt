@@ -2,3 +2,5 @@
 <u1>
        <li>Pas 1: Inicialitzar el repositori: Git Init</li>
 </ul
+
+ASDFGHJKL
