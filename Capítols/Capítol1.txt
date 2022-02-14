@@ -1,1 +1,1 @@
-Git es un sistema de contorl de versions ideat per Linux Torvalds.
+Git és un sistema de control de versions ideat per Linux Trovalds.
